@@ -1,0 +1,5 @@
+{
+  "name": "IT Order Notifier",
+  "description": "Reads supplier order emails (Bechtle) with Gemini, tracks every parcel per Jira ticket, keeps #it-hardware-orders, the requester and office channels updated on Slack, collects serial numbers, creates Jira Assets objects and closes the ticket.",
+  "requestFramePermissions": []
+}
